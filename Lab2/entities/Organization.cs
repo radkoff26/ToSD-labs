@@ -54,7 +54,7 @@ namespace Lab2.entities
         public bool Equals(Organization? other)
         {
             if (other == null) { return false; }
-            if (this == other) { return true; }
+            if (ReferenceEquals(this, other)) { return true; }
             if (
                 Id != other.Id || Name != other.Name || Longitude != other.Longitude || Latitude != other.Latitude)
             {
@@ -82,6 +82,10 @@ namespace Lab2.entities
 
         public static bool operator ==(Organization? left, Organization? right)
         {
+            if (ReferenceEquals(left, null) && ReferenceEquals(right, null))
+            {
+                return true;
+            }
             if (ReferenceEquals(left, null) || ReferenceEquals(right, null)) 
             {
                 return false;
@@ -91,6 +95,10 @@ namespace Lab2.entities
 
         public static bool operator !=(Organization? left, Organization? right)
         {
+            if (ReferenceEquals(left, null) && ReferenceEquals(right, null))
+            {
+                return false;
+            }
             if (ReferenceEquals(left, null) || ReferenceEquals(right, null))
             {
                 return true;

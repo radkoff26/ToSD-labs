@@ -59,7 +59,7 @@ namespace Lab2.entities
         public bool Equals(House? other)
         {
             if (other == null) { return false; }
-            if (this == other) { return true; }
+            if (ReferenceEquals(this, other)) { return true; }
             if (
                 Id != other.Id || Name != other.Name || City != other.City || Rate != other.Rate || OrganizationId != other.OrganizationId)
             {
@@ -88,6 +88,10 @@ namespace Lab2.entities
 
         public static bool operator ==(House? left, House? right)
         {
+            if (ReferenceEquals(left, null) && ReferenceEquals(right, null))
+            {
+                return true;
+            }
             if (ReferenceEquals(left, null) || ReferenceEquals(right, null))
             {
                 return false;
@@ -97,6 +101,10 @@ namespace Lab2.entities
 
         public static bool operator !=(House? left, House? right)
         {
+            if (ReferenceEquals(left, null) && ReferenceEquals(right, null))
+            {
+                return false;
+            }
             if (ReferenceEquals(left, null) || ReferenceEquals(right, null))
             {
                 return true;

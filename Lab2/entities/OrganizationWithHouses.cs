@@ -3,7 +3,7 @@ using System.Xml.Linq;
 
 namespace Lab2.entities
 {
-    internal struct OrganizationWithHouses(Organization organization, List<House> houses) : IComparable<OrganizationWithHouses>, IEquatable<OrganizationWithHouses>
+    internal class OrganizationWithHouses(Organization organization, List<House> houses) : IComparable<OrganizationWithHouses>, IEquatable<OrganizationWithHouses>
     {
         public Organization Organization { get; } = organization;
         public List<House> Houses { get; } = houses;
@@ -19,7 +19,7 @@ namespace Lab2.entities
             return sb.ToString();
         }
 
-        public int CompareTo(OrganizationWithHouses other)
+        public int CompareTo(OrganizationWithHouses? other)
         {
             if (ReferenceEquals(other, null))
             {
@@ -28,10 +28,10 @@ namespace Lab2.entities
             return (int)(Organization.Id - other.Organization.Id);
         }
 
-        public bool Equals(OrganizationWithHouses other)
+        public bool Equals(OrganizationWithHouses? other)
         {
             if (other != null) { return false; }
-            if (this == other) { return true; }
+            if (ReferenceEquals(this, other)) { return true; }
             if (
                 Organization != other.Organization
                 ||
@@ -49,7 +49,7 @@ namespace Lab2.entities
             {
                 return false;
             }
-            return left.Value.Organization.Id > right.Value.Organization.Id;
+            return left.Organization.Id > right.Organization.Id;
         }
 
         public static bool operator <(OrganizationWithHouses? left, OrganizationWithHouses? right)
@@ -58,12 +58,16 @@ namespace Lab2.entities
             {
                 return false;
             }
-            return left.Value.Organization.Id < right.Value.Organization.Id;
+            return left.Organization.Id < right.Organization.Id;
         }
 
         public static bool operator ==(OrganizationWithHouses? left, OrganizationWithHouses? right)
         {
-            if (left == null || right == null)
+            if (ReferenceEquals(left, null) && ReferenceEquals(right, null))
+            {
+                return true;
+            }
+            if (ReferenceEquals(left, null) || ReferenceEquals(right, null))
             {
                 return false;
             }
@@ -72,7 +76,11 @@ namespace Lab2.entities
 
         public static bool operator !=(OrganizationWithHouses? left, OrganizationWithHouses? right)
         {
-            if (left == null || right == null)
+            if (ReferenceEquals(left, null) && ReferenceEquals(right, null))
+            {
+                return false;
+            }
+            if (ReferenceEquals(left, null) || ReferenceEquals(right, null))
             {
                 return true;
             }

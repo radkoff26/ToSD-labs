@@ -107,7 +107,7 @@ namespace Lab2.repository.impl
             return (
                 from o in organizations
                     where o.Organization.Latitude >= fromLatitude && o.Organization.Latitude <= toLatitude
-                    && o.Organization.Longitude >= fromLongitude && o.Organization.Longitude < toLongitude
+                    && o.Organization.Longitude >= fromLongitude && o.Organization.Longitude <= toLongitude
                     select o
                 ).ToList();
         }
@@ -178,9 +178,9 @@ namespace Lab2.repository.impl
             organizations.ForEach(o =>
             {
                 var withHouses = GetOrganizationById(o.Id);
-                if (withHouses.HasValue)
+                if (withHouses != null)
                 {
-                    result.Add(withHouses.Value);
+                    result.Add(withHouses);
                 }
             });
             return result;
