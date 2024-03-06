@@ -25,7 +25,7 @@ namespace Lab1.scenarios.impl.type
             );
         }
 
-        private record DummyRecord
+        private record struct DummyRecord
         {
             // Demonstrational overloading methods
             public void f() { }

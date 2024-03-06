@@ -1,0 +1,15 @@
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\bin\Debug\net8.0\Lab2.exe
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\bin\Debug\net8.0\Lab2.deps.json
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\bin\Debug\net8.0\Lab2.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\bin\Debug\net8.0\Lab2.pdb
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\obj\Debug\net8.0\Lab2.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\obj\Debug\net8.0\Lab2.pdb
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab2\obj\Debug\net8.0\ref\Lab2.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radko\\OneDrive\\Рабочий стол\\University\\Advanced C#\\Lab1\\Lab1\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "C:\\Users\\radko\\OneDrive\\Рабочий стол\\University\\Advanced C#\\Lab1\\Lab1\\Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "C:\\Users\\radko\\OneDrive\\Рабочий стол\\University\\Advanced C#\\Lab1\\Lab1\\Lab1\\Lab1.csproj",
+      "projectPath": "C:\\Users\\radko\\OneDrive\\Рабочий стол\\University\\Advanced C#\\Lab1\\Lab1\\Lab1.csproj",
       "packagesPath": "C:\\Users\\radko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radko\\OneDrive\\Рабочий стол\\University\\Advanced C#\\Lab1\\Lab1\\Lab1\\obj\\",
+      "outputPath": "C:\\Users\\radko\\OneDrive\\Рабочий стол\\University\\Advanced C#\\Lab1\\Lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\radko\\AppData\\Roaming\\NuGet\\NuGet.Config",
