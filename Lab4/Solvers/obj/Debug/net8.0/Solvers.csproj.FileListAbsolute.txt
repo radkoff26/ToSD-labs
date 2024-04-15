@@ -1,0 +1,12 @@
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\obj\Debug\net8.0\Solvers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\obj\Debug\net8.0\Solvers.AssemblyInfoInputs.cache
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\obj\Debug\net8.0\Solvers.AssemblyInfo.cs
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\obj\Debug\net8.0\Solvers.csproj.CoreCompileInputs.cache
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\obj\Debug\net8.0\Solvers.sourcelink.json
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\bin\Debug\net8.0\Solvers.deps.json
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\bin\Debug\net8.0\Solvers.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\bin\Debug\net8.0\Solvers.pdb
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\obj\Debug\net8.0\Solvers.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\obj\Debug\net8.0\refint\Solvers.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\obj\Debug\net8.0\Solvers.pdb
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab4\Solvers\obj\Debug\net8.0\ref\Solvers.dll
