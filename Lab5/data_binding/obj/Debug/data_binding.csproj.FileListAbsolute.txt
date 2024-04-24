@@ -1,0 +1,68 @@
+C:\Users\Vera\RiderProjects\data_binding\data_binding\obj\Debug\data_binding.csprojAssemblyReference.cache
+C:\Users\Vera\RiderProjects\data_binding\data_binding\obj\Debug\data_binding.Form1.resources
+C:\Users\Vera\RiderProjects\data_binding\data_binding\obj\Debug\data_binding.csproj.GenerateResource.cache
+C:\Users\Vera\RiderProjects\data_binding\data_binding\obj\Debug\data_binding.csproj.CoreCompileInputs.cache
+C:\Users\Vera\RiderProjects\data_binding\data_binding\bin\Debug\data_binding.exe.config
+C:\Users\Vera\RiderProjects\data_binding\data_binding\bin\Debug\data_binding.exe
+C:\Users\Vera\RiderProjects\data_binding\data_binding\bin\Debug\data_binding.pdb
+C:\Users\Vera\RiderProjects\data_binding\data_binding\obj\Debug\data_binding.Properties.Resources.resources
+C:\Users\Vera\RiderProjects\data_binding\data_binding\obj\Debug\data_binding.exe
+C:\Users\Vera\RiderProjects\data_binding\data_binding\obj\Debug\data_binding.pdb
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\obj\Debug\data_binding.exe
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\obj\Debug\data_binding.pdb
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\obj\Debug\data_binding.csproj.AssemblyReference.cache
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\data_binding.exe.config
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\data_binding.exe
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\data_binding.pdb
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\obj\Debug\data_binding.Properties.Resources.resources
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\obj\Debug\data_binding.csproj.GenerateResource.cache
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\obj\Debug\data_binding.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\obj\Debug\data_binding.Form1.resources
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Buffers.dll
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Memory.dll
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Text.Json.dll
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.ValueTuple.dll
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Buffers.xml
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Memory.xml
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Text.Json.xml
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\bin\Debug\System.ValueTuple.xml
+C:\Users\Alexander\OneDrive\Рабочий стол\6 сем\шарпы\data_binding\data_binding\obj\Debug\data_binding.csproj.CopyComplete
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\obj\Debug\data_binding.csproj.AssemblyReference.cache
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\obj\Debug\data_binding.Properties.Resources.resources
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\obj\Debug\data_binding.csproj.GenerateResource.cache
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\obj\Debug\data_binding.csproj.CoreCompileInputs.cache
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\data_binding.exe.config
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\data_binding.exe
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\data_binding.pdb
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Buffers.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Memory.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Text.Json.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.ValueTuple.dll
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Buffers.xml
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Memory.xml
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Text.Json.xml
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\bin\Debug\System.ValueTuple.xml
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\obj\Debug\data_binding.csproj.CopyComplete
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\obj\Debug\data_binding.exe
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\obj\Debug\data_binding.pdb
+C:\Users\radko\OneDrive\Рабочий стол\University\Advanced C#\Lab5\data_binding\obj\Debug\data_binding.Form1.resources
